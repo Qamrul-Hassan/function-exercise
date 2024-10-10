@@ -12,6 +12,6 @@ function checkStrtAndEnd (str, startSubstr, endSubstr){
     };
 }
 
-console.log(checkStrtAndEnd("Hello, world!", "Hello", "world"));
+console.log(checkStrtAndEnd("Hello, world!", "Hello", "world!"));
 console.log(checkStrtAndEnd("Hi My name is Qamrul hassan", "name", "hassan"));
 console.log(checkStrtAndEnd("JavaScript is a smart language", "Script", "smart"));
