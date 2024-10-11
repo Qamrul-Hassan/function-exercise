@@ -6,4 +6,4 @@ function getRandomNumber (min, max){
     return Math.floor(randomNum);
 }
 console.log(getRandomNumber(1, 10));
-console.log(getRandomNumber(5,20));
+console.log(getRandomNumber(6,30));
